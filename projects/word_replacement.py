@@ -18,8 +18,7 @@ def reemplazador_palabras():
     """
         Función que reemplaza una palabra por otra en una frase
         Argumentos: Ninguno
-        Devuelve: 
-        (str): La frase con la palabra reemplazada    
+        Devuelve: Ninguno   
     """
     print('Bienvenido al reemplazador  de palabras')
     print('Por favor ingrese una frase:')
